@@ -117,7 +117,6 @@ static void* __stdcall NewShader_Shader(char* filename, int param_2)
     {
         if (!strcmp(filename, name))
         {
-            MessageBoxA(NULL, filename, name, MB_ICONINFORMATION);
             CreateTextures();
             UpdateTextures(effect_EAX);
         }
