@@ -25,5 +25,7 @@ I used Visual Studio 2022 on Windows
 
 You'll need Chloe's nya-common library, which can be cloned from [here](https://github.com/gaycoderprincess/nya-common)
 
+Put the nya-common folder under ```source/DLL/ZacksSSR_xNya/```, next to ```dllmain.cpp```
+
 ### For the shaders
 You'll need my [HLSL compiler](https://github.com/ZackWilde27/FlatOut2-HLSLToSHA)
