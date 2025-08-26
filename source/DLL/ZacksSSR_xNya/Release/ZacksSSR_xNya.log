@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  pch.cpp
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  dllmain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\C++\ZacksSSR_xNya\ZacksSSR_xNya\dllmain.cpp(93): warning C4731: 'NewRenderSky': frame pointer register 'ebp' modified by inline assembly code
+D:\C++\ZacksSSR_xNya\ZacksSSR_xNya\dllmain.cpp(131): warning C4731: 'NewShader_Shader': frame pointer register 'ebp' modified by inline assembly code
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ZacksSSR_xNya.vcxproj -> C:\GOG Games\FlatOut 2\SSR_gcp.dll

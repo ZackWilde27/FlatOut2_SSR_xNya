@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\ZacksSSR_xNya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D721F5E6-EB07-4613-B118-CCD8DF9D8890}|ZacksSSR_xNya\\ZacksSSR_xNya.vcxproj|D:\\C\u002B\u002B\\ZacksSSR_xNya\\ZacksSSR_xNya\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D721F5E6-EB07-4613-B118-CCD8DF9D8890}|ZacksSSR_xNya\\ZacksSSR_xNya.vcxproj|solutionrelative:ZacksSSR_xNya\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 720,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\ZacksSSR_xNya\\ZacksSSR_xNya\\dllmain.cpp",
+              "RelativeDocumentMoniker": "ZacksSSR_xNya\\dllmain.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\ZacksSSR_xNya\\ZacksSSR_xNya\\dllmain.cpp",
+              "RelativeToolTip": "ZacksSSR_xNya\\dllmain.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwEcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-25T21:35:05.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
